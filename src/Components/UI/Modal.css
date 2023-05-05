@@ -1,0 +1,9 @@
+.css-md26zr-MuiInputBase-root-MuiOutlinedInput-root,
+.css-z1o969-MuiInputBase-root-MuiOutlinedInput-root,
+.css-8bc6am-MuiAutocomplete-root,
+.MuiOutlinedInput-root,
+.MuiInputBase-sizeSmall,
+.css-12rl710-MuiPaper-root-MuiDialog-paper {
+    border-radius: 0px !important;
+    /* max-width: revert !important; */
+}
